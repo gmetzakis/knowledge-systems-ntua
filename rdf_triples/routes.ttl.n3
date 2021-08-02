@@ -1,0 +1,2367 @@
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Τ3-20> a ns1:UrbanRoutes ;
+    ns1:route_color "3FFF19" ;
+    ns1:route_id "Τ3-20" ;
+    ns1:route_long_name "ΝΕΟ ΦΑΛΗΡΟ - AΣΚΛΗΠΕΙΟ ΒΟΥΛΑ" ;
+    ns1:route_short_name "Τ3" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 900 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Τ4-20> a ns1:UrbanRoutes ;
+    ns1:route_color "3FFF19" ;
+    ns1:route_id "Τ4-20" ;
+    ns1:route_long_name "ΣΥΝΤΑΓΜΑ - ΝΕΟ ΦΑΛΗΡΟ" ;
+    ns1:route_short_name "Τ4" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 900 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Μ2-20> a ns1:UrbanRoutes ;
+    ns1:route_color "D81A13" ;
+    ns1:route_id "Μ2-20" ;
+    ns1:route_long_name "ΑΝΘΟΥΠΟΛΗ - ΣΤ.ΕΛΛΗΝΙΚΟ" ;
+    ns1:route_short_name "Μ2" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 1 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Τ5-20> a ns1:UrbanRoutes ;
+    ns1:route_color "3FFF19" ;
+    ns1:route_id "Τ5-20" ;
+    ns1:route_long_name "ΣΥΝΤΑΓΜΑ - ΒΟΥΛΑ" ;
+    ns1:route_short_name "Τ5" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 900 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Μ1-20> a ns1:UrbanRoutes ;
+    ns1:route_color "1C6F0B" ;
+    ns1:route_id "Μ1-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΚΗΦΙΣΙΑ" ;
+    ns1:route_short_name "Μ1" ;
+    ns1:route_text_color "ffffff" ;
+    ns1:route_type 1 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Μ3-20> a ns1:UrbanRoutes ;
+    ns1:route_color "FFE4CA" ;
+    ns1:route_id "Μ3-20" ;
+    ns1:route_long_name "ΑΓΙΑ ΜΑΡΙΝΑ - ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΕΡΟΔΡΟΜΙΟ" ;
+    ns1:route_short_name "Μ3" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 1 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/1-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "1-20" ;
+    ns1:route_long_name "ΠΛΑΤ. ΑΤΤΙΚΗΣ - ΤΖΙΤΖΙΦΙΕΣ - ΜΟΣΧΑΤΟ" ;
+    ns1:route_short_name "1" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/2-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "2-20" ;
+    ns1:route_long_name "ΑΝΩ ΚΥΨΕΛΗ - ΠΑΓΚΡΑΤΙ - ΚΑΙΣΑΡΙΑΝΗ" ;
+    ns1:route_short_name "2" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/3-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "3-20" ;
+    ns1:route_long_name "Ν. ΦΙΛΑΔΕΛΦΕΙΑ - ΑΝΩ ΠΑΤΗΣΙΑ - ΝΕΟ ΨΥΧΙΚΟ" ;
+    ns1:route_short_name "3" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/4-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "4-20" ;
+    ns1:route_long_name "ΑΝΩ ΚΥΨΕΛΗ - ΑΓ. ΑΡΤΕΜΙΟΣ - ΣΤ. ΜΕΤΡΟ ΑΓ. ΙΩΑΝΝΗΣ" ;
+    ns1:route_short_name "4" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/5-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "5-20" ;
+    ns1:route_long_name "ΛΑΜΠΡΙΝΗ - ΠΛ. ΣΥΝΤΑΓΜΑΤΟΣ - ΤΖΙΤΖΙΦΙΕΣ" ;
+    ns1:route_short_name "5" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/6-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "6-20" ;
+    ns1:route_long_name "ΙΠΠΟΚΡΑΤΟΥΣ -ΚΟΣΜΑΣ ΑΙΤΩΛΟΣ- Ν. ΦΙΛΑΔΕΛΦΕΙΑ" ;
+    ns1:route_short_name "6" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/10-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "10-20" ;
+    ns1:route_long_name "ΤΖΙΤΖΙΦΙΕΣ - ΧΑΛΑΝΔΡΙ" ;
+    ns1:route_short_name "10" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/11-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "11-20" ;
+    ns1:route_long_name "Α. ΠΑΤΗΣΙΑ - Ν. ΠΑΓΚΡΑΤΙ - Ν. ΕΛΒΕΤΙΑ" ;
+    ns1:route_short_name "11" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/12-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "12-20" ;
+    ns1:route_long_name "ΖΑΠΠΕΙΟ - ΠΕΡΙΣΤΕΡΙ" ;
+    ns1:route_short_name "12" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/14-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "14-20" ;
+    ns1:route_long_name "ΛΑΜΠΡΙΝΗ - Λ. ΑΛΕΞΑΝΔΡΑΣ - ΓΗΡΟΚΟΜΕΙΟ" ;
+    ns1:route_short_name "14" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/15-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "15-20" ;
+    ns1:route_long_name "ΠΕΤΡΑΛΩΝΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΛ. ΒΕΝΙΖΕΛΟΥ" ;
+    ns1:route_short_name "15" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/16-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "16-20" ;
+    ns1:route_long_name "ΑΓ. ΙΩΑΝΝΗΣ ΡΕΝΤΗΣ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "16" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/17-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "17-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΑΓ. ΓΕΩΡΓΙΟΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "17" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/18-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "18-20" ;
+    ns1:route_long_name "ΜΟΥΣΕΙΟ - ΧΑΛΑΝΔΡΙ (ΕΘΝ. ΑΝΤΙΣΤΑΣΕΩΣ)" ;
+    ns1:route_short_name "18" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/19-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "19-20" ;
+    ns1:route_long_name "ΜΟΥΣΕΙΟ - ΣΤ. ΧΑΛΑΝΔΡΙΟΥ (ΣΙΔΕΡΑ)" ;
+    ns1:route_short_name "19" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/20-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "20-20" ;
+    ns1:route_long_name "Ν. ΦΑΛΗΡΟ - ΚΑΣΤΕΛΛΑ - ΔΡΑΠΕΤΣΩΝΑ" ;
+    ns1:route_short_name "20" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/21-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "21-20" ;
+    ns1:route_long_name "ΝΙΚΑΙΑ - Π. ΡΑΛΛΗ - ΟΜΟΝΟΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "21" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/24-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "24-20" ;
+    ns1:route_long_name "ΠΕΤΡΟΥΠΟΛΗ - ΙΛΙΟΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "24" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/021-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "021-20" ;
+    ns1:route_long_name "ΚΑΝΙΓΓΟΣ - ΓΚΥΖΗ" ;
+    ns1:route_short_name "021" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/25-20> a ns1:UrbanRoutes ;
+    ns1:route_color "F19A1E" ;
+    ns1:route_id "25-20" ;
+    ns1:route_long_name "ΚΑΜΑΤΕΡΟ - ΙΛΙΟΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "25" ;
+    ns1:route_text_color "000000" ;
+    ns1:route_type 800 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/022-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "022-20" ;
+    ns1:route_long_name "Ν. ΚΥΨΕΛΗ - ΜΑΡΑΣΛΕΙΟΣ" ;
+    ns1:route_short_name "022" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/024-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "024-20" ;
+    ns1:route_long_name "ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΣΤ. ΑΤΤΙΚΗΣ - ΣΤ. ΛΑΡΙΣΗΣ (ΚΥΚΛΙΚΗ" ;
+    ns1:route_short_name "024" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/025-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "025-20" ;
+    ns1:route_long_name "ΙΠΠΟΚΡΑΤΟΥΣ - ΠΡΟΦ. ΔΑΝΙΗΛ" ;
+    ns1:route_short_name "025" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/026-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "026-20" ;
+    ns1:route_long_name "ΙΠΠΟΚΡΑΤΟΥΣ - ΒΟΤΑΝΙΚΟΣ" ;
+    ns1:route_short_name "026" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/027-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "027-20" ;
+    ns1:route_long_name "ΙΠΠΟΚΡΑΤΟΥΣ - ΟΡΦΕΩΣ" ;
+    ns1:route_short_name "027" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/032-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "032-20" ;
+    ns1:route_long_name "ΓΟΥΔΗ - ΜΑΡΑΣΛΕΙΟΣ (ΣΧΟΛΙΚΗ)" ;
+    ns1:route_short_name "032" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/035-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "035-20" ;
+    ns1:route_long_name "ΑΝΩ ΚΥΨΕΛΗ - ΠΕΤΡΑΛΩΝΑ - ΤΑΥΡΟΣ" ;
+    ns1:route_short_name "035" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/036-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "036-20" ;
+    ns1:route_long_name "ΣΤ.ΚΑΤΕΧΑΚΗ - ΣΤ.ΠΑΝΟΡΜΟΥ - ΓΑΛΑΤΣΙ - ΚΥΨΕΛΗ (ΚΥΚ)" ;
+    ns1:route_short_name "036" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/040-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "040-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΣΥΝΤΑΓΜΑ" ;
+    ns1:route_short_name "040" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/046-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "046-20" ;
+    ns1:route_long_name "ΜΟΥΣΕΙΟ - ΕΛΛΗΝΟΡΩΣΩΝ" ;
+    ns1:route_short_name "046" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/049-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "049-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΟΜΟΝΟΙΑ" ;
+    ns1:route_short_name "049" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/051-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "051-20" ;
+    ns1:route_long_name "ΟΜΟΝΟΙΑ - ΣΤΑΘ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ" ;
+    ns1:route_short_name "051" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/054-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "054-20" ;
+    ns1:route_long_name "ΠΕΡΙΣΣΟΣ - ΑΚΑΔΗΜΙΑ - ΜΕΤΑΜΟΡΦΩΣΗ" ;
+    ns1:route_short_name "054" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/057-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "057-20" ;
+    ns1:route_long_name "ΟΜΟΝΟΙΑ - ΛΟΦΟΣ ΣΚΟΥΖΕ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "057" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/060-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "060-20" ;
+    ns1:route_long_name "ΜΟΥΣΕΙΟ - ΑΚΑΔΗΜΙΑ - ΛΥΚΑΒΗΤΤΟΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "060" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/100-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "100-20" ;
+    ns1:route_long_name "ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΚΟΛΩΝΑΚΙ - ΑΓΟΡΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "100" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/101-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "101-20" ;
+    ns1:route_long_name "ΑΛΙΜΟΣ - ΕΛΛΗNIKO" ;
+    ns1:route_short_name "101" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/106-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "106-20" ;
+    ns1:route_long_name "ΑΓ. ΒΑΡΒΑΡΑ - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "106" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/109-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "109-20" ;
+    ns1:route_long_name "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΝΩ ΚΑΛΑΜΑΚΙ" ;
+    ns1:route_short_name "109" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/112-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "112-20" ;
+    ns1:route_long_name "ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΣΤΑΘ. ΔΑΦΝΗΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "112" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/120-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "120-20" ;
+    ns1:route_long_name "ΓΛΥΦΑΔΑ - ΒΑΡΗ  - ΠΡΟΑΣΤ. ΚΟΡΩΠΙΟΥ" ;
+    ns1:route_short_name "120" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/122-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "122-20" ;
+    ns1:route_long_name "ΣΤ. ΕΛΛΗΝΙΚΟ - ΣΑΡΩΝΙΔΑ" ;
+    ns1:route_short_name "122" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/123-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "123-20" ;
+    ns1:route_long_name "ΣΑΡΩΝΙΔΑ - ΑΝΑΒΥΣΣΟΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "123" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/126-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "126-20" ;
+    ns1:route_long_name "ΠΑΛ. ΦΑΛΗΡΟ - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "126" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/130-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "130-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - Ν. ΣΜΥΡΝΗ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "130" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/131-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "131-20" ;
+    ns1:route_long_name "ΣΤ. ΔΑΦΝΗΣ - ΑΜΑΞ/ΣΙΟ  ΑΓ. ΔΗΜΗΤΡΙΟΥ" ;
+    ns1:route_short_name "131" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/136-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "136-20" ;
+    ns1:route_long_name "ΑΝΩ Ν. ΣΜΥΡΝΗ Β - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "136" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/137-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "137-20" ;
+    ns1:route_long_name "ΑΝΩ Ν. ΣΜΥΡΝΗ Α - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "137" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/140-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "140-20" ;
+    ns1:route_long_name "ΠΟΛΥΓΩΝΟ - ΓΛΥΦΑΔΑ" ;
+    ns1:route_short_name "140" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/141-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "141-20" ;
+    ns1:route_long_name "ΣΤ. ΔΑΦΝΗΣ - ΚΑΛΑΜΑΚΙ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "141" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/142-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "142-20" ;
+    ns1:route_long_name "ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ - ΚΑΛΑΜΑΚΙ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "142" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/154-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "154-20" ;
+    ns1:route_long_name "ΣΤ. ΕΛΛΗΝΙΚΟ - ΑΝΩ ΓΛΥΦΑΔΑ (ΠΑΝΟΡΑΜΑ ΒΟΥΛΑΣ)" ;
+    ns1:route_short_name "154" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/155-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "155-20" ;
+    ns1:route_long_name "ΕΛΛΗΝΙΚΟ - ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "155" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/162-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "162-20" ;
+    ns1:route_long_name "ΒΟΥΛΑ - ΠΑΝΟΡΑΜΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "162" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/164-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "164-20" ;
+    ns1:route_long_name "ΣΤ.ΑΓ.ΔΗΜΗΤΡΙΟΣ - Κ. ΗΛ/ΠΟΛΗ - ΑΡΓ/ΠΟΛΗ - ΤΕΡΨΙΘΕΑ" ;
+    ns1:route_short_name "164" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/165-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "165-20" ;
+    ns1:route_long_name "ΤΕΡΨΙΘΕΑ - ΑΡΓΥΡΟΥΠΟΛΗ - ΣΥΝΤΑΓΜΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "165" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/171-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "171-20" ;
+    ns1:route_long_name "ΣΤ. ΜΕΤΡΟ ΕΛΛΗΝΙΚΟ - ΒΑΡΚΙΖΑ" ;
+    ns1:route_short_name "171" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/201-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "201-20" ;
+    ns1:route_long_name "ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΡΓΥΡΟΥΠΟΛΗ" ;
+    ns1:route_short_name "201" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/203-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "203-20" ;
+    ns1:route_long_name "ΚΑΡΕΑΣ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "203" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/204-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "204-20" ;
+    ns1:route_long_name "ΣΤΡ. ΣΑΚΕΤΑ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "204" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/206-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "206-20" ;
+    ns1:route_long_name "ΣΤ. ΔΑΦΝΗ - ΑΓΙΑ ΜΑΡΙΝΑ" ;
+    ns1:route_short_name "206" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/209-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "209-20" ;
+    ns1:route_long_name "ΜΕΤΑΜΟΡΦΩΣΗ - ΠΛΑΤΕΙΑ ΣΥΝΤΑΓΜΑΤΟΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "209" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/212-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "212-20" ;
+    ns1:route_long_name "ΣΤ. ΜΕΤΡΟ ΔΑΦΝΗΣ - ΒΥΡΩΝΑΣ - ΚΑΡΕΑΣ" ;
+    ns1:route_short_name "212" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/217-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "217-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ (ΣΤΑΘ. ΔΑΦΝΗΣ)" ;
+    ns1:route_short_name "217" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/218-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "218-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΣΤ. ΔΑΦΝΗΣ" ;
+    ns1:route_short_name "218" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/219-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "219-20" ;
+    ns1:route_long_name "ΣΤ. ΚΑΛΛΙΘΕΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ" ;
+    ns1:route_short_name "219" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/220-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "220-20" ;
+    ns1:route_long_name "ΑΝΩ ΙΛΙΣΙΑ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "220" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/221-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "221-20" ;
+    ns1:route_long_name "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "221" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/224-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "224-20" ;
+    ns1:route_long_name "ΚΑΙΣΑΡΙΑΝΗ - ΕΛ. ΒΕΝΙΖΕΛΟΥ" ;
+    ns1:route_short_name "224" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/227-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "227-20" ;
+    ns1:route_long_name "ΑΝΩ ΠΕΤΡΑΛΩΝΑ - ΑΓ. ΑΡΤΕΜΙΟΣ" ;
+    ns1:route_short_name "227" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/229-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "229-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ (ΣΤΑΘ. ΔΑΦΝΗΣ)" ;
+    ns1:route_short_name "229" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/230-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "230-20" ;
+    ns1:route_long_name "ΑΚΡΟΠΟΛΗ - ΖΩΓΡΑΦΟΥ" ;
+    ns1:route_short_name "230" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/235-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "235-20" ;
+    ns1:route_long_name "ΖΩΓΡΑΦΟΥ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "235" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/237-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "237-20" ;
+    ns1:route_long_name "ΣΤ. ΔΑΦΝΗ - ΑΝΩ ΗΛΙΟΥΠΟΛΗ" ;
+    ns1:route_short_name "237" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/242-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "242-20" ;
+    ns1:route_long_name "ΣΤ. ΚΑΤΕΧΑΚΗ - ΠΟΛΥΤΕΧΝΕΙΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ) ΣΧΟΛ." ;
+    ns1:route_short_name "242" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/250-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "250-20" ;
+    ns1:route_long_name "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΣΤ. ΕΥΑΓΓΕΛΙΣΜΟΥ (ΚΥΚΛΙΚΗ) ΣΧ" ;
+    ns1:route_short_name "250" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/300-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "300-20" ;
+    ns1:route_long_name "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΤΖΑΝΕΙΟ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "300" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/301-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "301-20" ;
+    ns1:route_long_name "ΠΕΝΤΕΛΗ - ΣΤ. ΠΑΛΛΗΝΗ - ΔΗΜΑΡΧΕΙΟ ΓΕΡΑΚΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "301" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/301Β-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "301Β-20" ;
+    ns1:route_long_name "ΤΟΠΙΚΗ ΑΝΘΟΥΣΑΣ - ΝΤΡΑΦΙ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "301Β" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/302-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "302-20" ;
+    ns1:route_long_name "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΓΕΡΑΚΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "302" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/304-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "304-20" ;
+    ns1:route_long_name "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ (ΒΡΑΥΡΩΝΑ)" ;
+    ns1:route_short_name "304" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/305-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "305-20" ;
+    ns1:route_long_name "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ (ΑΓ. ΝΙΚΟΛΑΟΣ)" ;
+    ns1:route_short_name "305" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/306-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "306-20" ;
+    ns1:route_long_name "ΣΤ. Δ. ΠΛΑΚΕΝΤΙΑΣ-ΔΗΜΑΡΧ. ΓΕΡΑΚΑ-ΜΠΑΛΑΝΑ ΓΕΡΑΚΑ" ;
+    ns1:route_short_name "306" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/307-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "307-20" ;
+    ns1:route_long_name "ΣΤ. Δ. ΠΛΑΚΕΝΤΙΑΣ - ΓΛ. ΝΕΡΑ - ΠΡΟΑΣΤ. ΚΟΡΩΠΙΟΥ" ;
+    ns1:route_short_name "307" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/308-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "308-20" ;
+    ns1:route_long_name "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΠΑΙΑΝΙΑ - ΚΟΡΩΠΙ" ;
+    ns1:route_short_name "308" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/309-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "309-20" ;
+    ns1:route_long_name "ΚΟΡΩΠΙ - ΣΤ. ΠΡΟΑΣΤΙΑΚΟΥ - ΚΟΡΩΠΙ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "309" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/314-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "314-20" ;
+    ns1:route_long_name "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΝΟΜ. ΑΝ. ΑΤΤΙΚΗΣ - ΠΑΛΛΗΝΗ" ;
+    ns1:route_short_name "314" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/316-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "316-20" ;
+    ns1:route_long_name "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ" ;
+    ns1:route_short_name "316" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/319-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "319-20" ;
+    ns1:route_long_name "ΣΤ. ΜΕΤΡΟ ΔΟΥΚ. ΠΛΑΚ.- ΠΑΛΛΗΝΗ-ΕΚΠΤ. ΧΩΡΙΟ-ΣΠΑΤΑ" ;
+    ns1:route_short_name "319" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/322-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "322-20" ;
+    ns1:route_long_name "ΑΓ. ΝΙΚΟΛΑΟΣ - ΒΡΑΥΡΩΝΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "322" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/323-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "323-20" ;
+    ns1:route_long_name "ΒΡΑΥΡΩΝΑ - ΑΓ. ΝΙΚΟΛΑΟΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "323" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/324-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "324-20" ;
+    ns1:route_long_name "ΑΝΘΟΥΣΑ - ΠΑΛΛΗΝΗ - ΚΑΝΤΖΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "324" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/330-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "330-20" ;
+    ns1:route_long_name "ΚΟΡΩΠΙ - ΑΓ. ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "330" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/402-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "402-20" ;
+    ns1:route_long_name "ΣΤ. ΚΑΤΕΧΑΚΗ - ΠΟΛΥΔΡΟΣΟ" ;
+    ns1:route_short_name "402" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/404-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "404-20" ;
+    ns1:route_long_name "ΣΤ. ΕΘΝ.ΑΜΥΝΑΣ - ΣΤ. ΧΑΛΑΝΔΡΙΟΥ" ;
+    ns1:route_short_name "404" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/405-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "405-20" ;
+    ns1:route_long_name "ΣΤ. ΧΑΛΑΝΔΡΙ - ΜΕΛΙΣΣΙΑ" ;
+    ns1:route_short_name "405" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/406-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "406-20" ;
+    ns1:route_long_name "ΣΤ. ΝΟΜΙΣΜ. - ΑΓ. ΠΑΡΑΣΚΕΥΗ - ΣΤ. ΠΛΑΚΕΝΤΙΑΣ" ;
+    ns1:route_short_name "406" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/407-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "407-20" ;
+    ns1:route_long_name "ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ-ΝΕΑ ΖΩΗ - ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ" ;
+    ns1:route_short_name "407" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/409-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "409-20" ;
+    ns1:route_long_name "ΠΑΠΑΓΟΥ - ΣΤ. ΕΘΝ. ΑΜΥΝΑΣ-ΣΤ.ΚΑΤΕΧΑΚΗ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "409" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/410-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "410-20" ;
+    ns1:route_long_name "Ο.Α.Κ.Α - ΑΝΩ ΜΕΛΙΣΣΙΑ  (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "410" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/411-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "411-20" ;
+    ns1:route_long_name "ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΣΙΣΜΑΝΟΓΛΕΙΟ - ΧΑΛΑΝΔΡΙ" ;
+    ns1:route_short_name "411" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/413-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "413-20" ;
+    ns1:route_long_name "ΠΑΠΑΓΟΥ - ΣΤ. ΚΑΤΕΧΑΚΗ - ΣΤ. ΕΘΝ. ΑΜΥΝΑΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "413" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/416-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "416-20" ;
+    ns1:route_long_name "ΣΤ. ΕΘΝ. ΑΜΥΝΑΣ - ΧΟΛΑΡΓΟΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "416" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/418-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "418-20" ;
+    ns1:route_long_name "ΣΤ. ΕΘΝ. ΑΜΥΝΑΣ - ΣΧΟΛ. ΧΟΛΑΡΓΟΥ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "418" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/420-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "420-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΑΓ. ΑΝΑΡΓΥΡΟΙ (Μέσω ΚΗΦΙΣΟΥ)" ;
+    ns1:route_short_name "420" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/421-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "421-20" ;
+    ns1:route_long_name "ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΑΓ. ΠΑΡΑΣΚΕΥΗ" ;
+    ns1:route_short_name "421" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/444-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "444-20" ;
+    ns1:route_long_name "ΣΤ. ΕΙΡΗΝΗ - ΓΑΛΑΤΣΙ - ΣΤ. ΑΝΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "444" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/446-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "446-20" ;
+    ns1:route_long_name "ΣΤΑΘ. ΑΜΑΡΟΥΣΙΟΥ - ΝΟΣΟΚ. ΠΕΝΤΕΛΗΣ (Μέσω ΠΙΚΠΑ)" ;
+    ns1:route_short_name "446" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/447-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "447-20" ;
+    ns1:route_long_name "ΧΑΛΑΝΔΡΙ - ΑΝΩ ΒΡΙΛΗΣΣΙΑ" ;
+    ns1:route_short_name "447" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/500-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "500-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΚΗΦΙΣΙΑ" ;
+    ns1:route_short_name "500" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/501-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "501-20" ;
+    ns1:route_long_name "ΠΕΥΚΗ - ΜΑΡΟΥΣΙ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "501" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/504-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "504-20" ;
+    ns1:route_long_name "ΘΡΑΚΟΜΑΚΕΔΟΝΕΣ - ΚΗΦΙΣΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "504" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/527-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "527-20" ;
+    ns1:route_long_name "ΠΕΥΚΗ - ΝΕΡΑΤΖΙΩΤΙΣΣΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "527" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/541-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "541-20" ;
+    ns1:route_long_name "ΜΕΤΑΜΟΡΦΩΣΗ - ΣΤ. ΑΜΑΡΟΥΣΙΟΥ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "541" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/543-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "543-20" ;
+    ns1:route_long_name "ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΝΟΣΟΚ. ΑΓ. ΑΝΑΡΓΥΡΟΙ" ;
+    ns1:route_short_name "543" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/550-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "550-20" ;
+    ns1:route_long_name "Π. ΦΑΛΗΡΟ - ΚΗΦΙΣΙΑ" ;
+    ns1:route_short_name "550" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/560-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "560-20" ;
+    ns1:route_long_name "ΣΤ. ΚΗΦΙΣΙΑ - ΜΟΡΤΕΡΟ - Ν. ΕΡΥΘΡΑΙΑ" ;
+    ns1:route_short_name "560" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/602-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "602-20" ;
+    ns1:route_long_name "Ν. ΙΩΝΙΑ - ΚΑΛΟΓΡΕΖΑ - ΣΤΑΘ. ΠΑΝΟΡΜΟΥ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "602" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/604-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "604-20" ;
+    ns1:route_long_name "ΝΟΣ. ΑΓ. ΑΝΑΡΓΥΡΩΝ - ΣΤ. ΜΕΤΑΜΟΡΦΩΣΗΣ - ΝΕΑ ΙΩΝΙΑ" ;
+    ns1:route_short_name "604" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/605-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "605-20" ;
+    ns1:route_long_name " ΠΕΡΙΣΣΟΣ - ΑΝΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "605" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/608-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "608-20" ;
+    ns1:route_long_name "ΓΑΛΑΤΣΙ - ΑΚΑΔΗΜΙΑ - ΝΕΚΡ. ΖΩΓΡΑΦΟΥ" ;
+    ns1:route_short_name "608" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/610-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "610-20" ;
+    ns1:route_long_name "ΦΙΛΟΘΕΗ - ΑΜΠΕΛΟΚΗΠΟΙ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "610" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/619-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "619-20" ;
+    ns1:route_long_name "ΜΕΤΑΜΟΡΦΩΣΗ-Ν.ΦΙΛΑΔΕΛΦΕΙΑ-ΣΤ.ΑΝΩ ΠΑΤΗΣΙΩΝ(ΚΥΚΛΙΚ)" ;
+    ns1:route_short_name "619" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/622-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "622-20" ;
+    ns1:route_long_name "ΓΟΥΔΗ - ΑΝΩ ΓΑΛΑΤΣΙ" ;
+    ns1:route_short_name "622" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/640-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "640-20" ;
+    ns1:route_long_name "ΤΟΠΙΚΗ ΗΡΑΚΛΕΙΟΥ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "640" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/642-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "642-20" ;
+    ns1:route_long_name "ΗΡΑΚΛΕΙΟ - ΑΓ.ΝΕΚΤΑΡΙΟΣ - ΠΕΥΚΗ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "642" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/651-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "651-20" ;
+    ns1:route_long_name "ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Α (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "651" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/653-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "653-20" ;
+    ns1:route_long_name "ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Β (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "653" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/700-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "700-20" ;
+    ns1:route_long_name "ΑΓΙΑ ΤΡΙΑΔΑ ΠΕΤΡΟΥΠΟΛΗ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚ)" ;
+    ns1:route_short_name "700" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/701-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "701-20" ;
+    ns1:route_long_name "ΚΑΜΑΤΕΡΟ - ΙΛΙΟΝ - ΣΤ. ΑΝΘΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "701" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/703-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "703-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ-ΑΓ. ΑΝΑΡΓΥΡΟΙ-ΑΓ. ΕΛΕΥΘΕΡΙΟΣ (Μέσω ΘΗΒΩΝ)" ;
+    ns1:route_short_name "703" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/704-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "704-20" ;
+    ns1:route_long_name "ΚΑΜΑΤΕΡΟ - ΠΛ. ΑΓ. ΑΝΑΡΓΥΡΩΝ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "704" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/705-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "705-20" ;
+    ns1:route_long_name "ΚΑΜΑΤΕΡΟ-ΙΛΙΟΝ-ΠΛ.ΑΓ.ΑΝΑΡΓΥΡΩΝ-ΣΤ.ΑΝΘΟΥΠΟΛΗ (ΚΥΚΛ." ;
+    ns1:route_short_name "705" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/711-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "711-20" ;
+    ns1:route_long_name "ΖΩΦΡΙΑ - ΑΤΤΙΚΗ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "711" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/712-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "712-20" ;
+    ns1:route_long_name "ΑΧΑΡΝΑΙ - ΕΡΓ. ΠΟΛ/ΚΙΕΣ - Α. ΛΙΟΣΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "712" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/713-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "713-20" ;
+    ns1:route_long_name "Α. ΛΙΟΣΙΑ (ΠΑΝΟΡΑΜΑ) - ΣΤ. ΠΡΟΑΣΤΙΑΚΟΥ(ΑΝΩ ΛΙΟΣΙΑ)" ;
+    ns1:route_short_name "713" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/719-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "719-20" ;
+    ns1:route_long_name "ΚΗΠΟΥΠΟΛΗ - ΠΑΛΑΤΙΑΝΗ - ΣΤ. ΛΑΡΙΣΗΣ(ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "719" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/721-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "721-20" ;
+    ns1:route_long_name "ΑΧΑΡΝΑΙ - ΚΗΦΙΣΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "721" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/723-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "723-20" ;
+    ns1:route_long_name "ΦΥΛΗ - ΑΝΩ ΛΙΟΣΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "723" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/724-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "724-20" ;
+    ns1:route_long_name "ΘΡΑΚ/ΔΟΝΕΣ - ΑΧΑΡΝΑΙ - Ν. ΙΩΝΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "724" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/727-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "727-20" ;
+    ns1:route_long_name "ΑΧΑΡΝΑΙ - ΜΕΣΟΝΥΧΙ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "727" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/730-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "730-20" ;
+    ns1:route_long_name "ΛΟΦΟΣ ΑΞΙΩΜΑΤΙΚΩΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΖΩΟΔ. ΠΗΓΗ" ;
+    ns1:route_short_name "730" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/731-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "731-20" ;
+    ns1:route_long_name "ΑΝΘΟΥΠΟΛΗ - ΣΤ. Μ. ΑΝΘΟΥΠΟΛΗ- ΑΤΤΙΚΟ ΝΟΣ-ΔΑΣΟΣ" ;
+    ns1:route_short_name "731" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/732-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "732-20" ;
+    ns1:route_long_name "ΑΓ. ΦΑΝΟΥΡΙΟΣ - ΑΚΑΔΗΜΙΑ - ΖΩΟΔ. ΠΗΓΗ" ;
+    ns1:route_short_name "732" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/735-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "735-20" ;
+    ns1:route_long_name "ΑΧΑΡΝΑΙ -ΖΕΦΥΡΙ - ΣΤ. ΚΑΤΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "735" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/740-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "740-20" ;
+    ns1:route_long_name "ΟΛΥΜΠ. ΧΩΡΙΟ - ΣΚΑ- ΑΧΑΡΝΑΙ- ΑΓ.ΑΝΝΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "740" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/747-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "747-20" ;
+    ns1:route_long_name "ΠΕΤΡΟΥΠΟΛΗ - ΠΑΝΟΡΑΜΑ - ΣΤ. ΑΝΘΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "747" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/748-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "748-20" ;
+    ns1:route_long_name "ΧΡΥΣΟΥΠΟΛΗ-ΑΝΘΟΥΠΟΛΗ-ΣΤ.ΠΕΡΙΣΤΕΡΙ" ;
+    ns1:route_short_name "748" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/750-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "750-20" ;
+    ns1:route_long_name "ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ - ΝΙΚΑΙΑ" ;
+    ns1:route_short_name "750" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/790-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "790-20" ;
+    ns1:route_long_name "ΓΛΥΦΑΔΑ - ΠΕΡΙΣΤΕΡΙ (ΑΓ. ΑΝΤΩΝΙΟΣ)" ;
+    ns1:route_short_name "790" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/800-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "800-20" ;
+    ns1:route_long_name "ΝΙΚΑΙΑ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "800" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/801-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "801-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΠΑΛΑΣΚΑ" ;
+    ns1:route_short_name "801" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/803-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "803-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΔΑΣΟΣ Β (Μέσω ΙΕΡΑΣ ΟΔΟΥ)" ;
+    ns1:route_short_name "803" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/805-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "805-20" ;
+    ns1:route_long_name "ΑΣΠΡΟΠΥΡΓΟΣ - ΝΕΟΚΤΙΣΤΑ" ;
+    ns1:route_short_name "805" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/806-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "806-20" ;
+    ns1:route_long_name "ΚΟΡΥΔΑΛΛΟΣ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "806" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/807-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "807-20" ;
+    ns1:route_long_name "ΑΝΩ ΚΟΡΥΔΑΛΛΟΣ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "807" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/809-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "809-20" ;
+    ns1:route_long_name "ΣΧΙΣΤΟ - ΚΟΡΥΔΑΛΛΟΣ - ΠΕΙΡΑΙΑΣ Α (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "809" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/810-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "810-20" ;
+    ns1:route_long_name "ΣΧΙΣΤΟ - ΚΟΡΥΔΑΛΛΟΣ - ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "810" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/811-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "811-20" ;
+    ns1:route_long_name "ΧΑΪΔΑΡΙ - ΣΤ. ΑΓΙΑ ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "811" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/813-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "813-20" ;
+    ns1:route_long_name "ΑΒΕΡΩΦ - ΠΡΟΥΣΣΗΣ" ;
+    ns1:route_short_name "813" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/814-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "814-20" ;
+    ns1:route_long_name "ΣΧΙΣΤΟ - ΚΑΡΑΒΑΣ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "814" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/815-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "815-20" ;
+    ns1:route_long_name "ΓΟΥΔΗ - ΤΑΥΡΟΣ" ;
+    ns1:route_short_name "815" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/816-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "816-20" ;
+    ns1:route_long_name "ΤΑΥΡΟΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ" ;
+    ns1:route_short_name "816" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/817-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "817-20" ;
+    ns1:route_long_name "ΕΛΕΥΣΙΝΑ - ΜΑΝΔΡΑ" ;
+    ns1:route_short_name "817" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/818-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "818-20" ;
+    ns1:route_long_name "ΛΙΜ. ΠΕΡΑΜΑΤΟΣ - ΑΝΩ ΠΕΡΑΜΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "818" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/819-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "819-20" ;
+    ns1:route_long_name "ΠΕΡΑΜΑ - ΝΕΚΡ. ΣΧΙΣΤΟΥ" ;
+    ns1:route_short_name "819" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/820-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "820-20" ;
+    ns1:route_long_name "ΚΕΡΑΤΣΙΝΙ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "820" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/821-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "821-20" ;
+    ns1:route_long_name "ΑΓΙΑ ΑΝΑΣΤΑΣΙΑ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "821" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/822-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "822-20" ;
+    ns1:route_long_name "ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΝΕΑ ΖΩΗ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "822" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/823-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "823-20" ;
+    ns1:route_long_name " ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ- ΑΓ. ΒΑΣΙΛΕΙΟΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "823" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/824-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "824-20" ;
+    ns1:route_long_name "ΝΕΑΠΟΛΗ - ΑΓ. ΑΝΤΩΝΙΟΣ - ΠΕΙΡΑΙΑΣ Α (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "824" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/825-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "825-20" ;
+    ns1:route_long_name "ΝΕΑΠΟΛΗ - ΑΓ. ΑΝΤΩΝΙΟΣ - ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "825" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/826-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "826-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΑΓ. ΜΗΝΑΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "826" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/827-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "827-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - Γ΄ ΝΕΚΡΟΤ. - ΑΣΠΡΑ ΧΩΜΑΤΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "827" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/828-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "828-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΑΣΠΡΑ ΧΩΜΑΤΑ - Γ΄ ΝΕΚΡΟΤ. (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "828" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/829-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "829-20" ;
+    ns1:route_long_name "ΤΕΙ ΠΕΙΡΑΙΑ - ΣΤ. ΑΙΓΑΛΕΩ - ΤΕΙ ΑΘΗΝΑΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "829" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/830-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "830-20" ;
+    ns1:route_long_name "ΑΓ. ΒΑΡΒΑΡΑ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "830" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/831-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "831-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΑΙΓΑΛΕΩ" ;
+    ns1:route_short_name "831" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/832-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "832-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΕΥΓΕΝΕΙΑ - ΧΑΡΑΥΓΗ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "832" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/833-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "833-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΧΑΡΑΥΓΗ - ΕΥΓΕΝΕΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "833" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/836-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "836-20" ;
+    ns1:route_long_name "ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΠΑΛΑΣΚΑ" ;
+    ns1:route_short_name "836" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/837-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "837-20" ;
+    ns1:route_long_name "ΑΝΩ ΑΓ. ΒΑΡΒΑΡΑ - ΣΤ.  ΑΓΙΑ ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "837" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/838-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "838-20" ;
+    ns1:route_long_name "ΟΜΟΝΟΙΑ - ΡΕΝΤΗΣ - ΠΑΛ. ΚΟΚΚΙΝΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "838" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/843-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "843-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΠΕΡΑΜΑ" ;
+    ns1:route_short_name "843" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/845-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "845-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΕΛΕΥΣΙΝΑ (Μέσω ΘΗΒΩΝ)" ;
+    ns1:route_short_name "845" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/846-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "846-20" ;
+    ns1:route_long_name "ΝΕΑΠΟΛΗ - ΠΕΙΡΑΙΑΣ Α (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "846" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/847-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "847-20" ;
+    ns1:route_long_name "ΝΕΑΠΟΛΗ - ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "847" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/852-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "852-20" ;
+    ns1:route_long_name "ΝΕΑΠΟΛΗ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "852" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/855-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "855-20" ;
+    ns1:route_long_name "ΨΑΡΙ - ΑΣΠΡΟΠΥΡΓΟΣ - ΛΟΦΟΣ ΚΥΡΙΛΛΟΥ" ;
+    ns1:route_short_name "855" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/856-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "856-20" ;
+    ns1:route_long_name "ΑΙΓΑΛΕΩ - ΥΜΗΤΤΟΣ - ΔΑΦΝΗ" ;
+    ns1:route_short_name "856" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/859-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "859-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΔΕΞΑΜΕΝΕΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "859" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/860-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "860-20" ;
+    ns1:route_long_name "Π. ΦΑΛΗΡΟ-ΓΕΝ. ΚΡΑΤΙΚΟ ΝΙΚΑΙΑΣ-ΣΧΙΣΤΟ ΚΕΡΑΤΣΙΝΙΟΥ" ;
+    ns1:route_short_name "860" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/861-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "861-20" ;
+    ns1:route_long_name "ΕΛΕΥΣΙΝΑ - ΜΑΝΔΡΑ (ΟΙΚΙΣΜΟΣ ΤΙΤΑΝ)" ;
+    ns1:route_short_name "861" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/862-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "862-20" ;
+    ns1:route_long_name "ΠΑΡΑΛΙΑ - ΑΝΩ ΕΛΕΥΣΙΝΑ" ;
+    ns1:route_short_name "862" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/863-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "863-20" ;
+    ns1:route_long_name "ΕΛΕΥΣΙΝΑ - ΘΡΙΑΣΙΟ ΝΟΣ. - ΜΑΝΔΡΑ" ;
+    ns1:route_short_name "863" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/865-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "865-20" ;
+    ns1:route_long_name "ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΜΑΝΔΡΑ" ;
+    ns1:route_short_name "865" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/866-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "866-20" ;
+    ns1:route_long_name "ΑΣΠΡΟΠΥΡΓΟΣ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "866" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/871-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "871-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΕΛΕΥΣΙΝΑ (Μέσω Λ. ΕΘΝ.ΑΝΤΙΣΤΑΣΕΩΣ)" ;
+    ns1:route_short_name "871" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/875-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "875-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - Ν. ΜΩΛΟΣ ΔΡΑΠΕΤΣΩΝΑΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "875" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/876-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "876-20" ;
+    ns1:route_long_name "ΕΛΕΥΣΙΝΑ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "876" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/881-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "881-20" ;
+    ns1:route_long_name "ΕΛΕΥΣΙΝΑ - ΑΣΠΡΟΠΥΡΓΟΣ - ΡΟΥΠΑΚΙ" ;
+    ns1:route_short_name "881" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/891-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "891-20" ;
+    ns1:route_long_name "ΑΙΓΑΛΕΩ - ΠΕΡΙΣΤΕΡΙ - ΣΤΑΘ. ΑΤΤΙΚΗΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "891" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/892-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "892-20" ;
+    ns1:route_long_name "ΑΓ. ΒΑΡΒΑΡΑ - ΧΑΪΔΑΡΙ - ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΙΛΙΟΝ" ;
+    ns1:route_short_name "892" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/904-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "904-20" ;
+    ns1:route_long_name "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΣΤ. ΠΕΙΡΑΙΑ - ΦΡΕΑΤΤΥΔΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "904" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/906-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "906-20" ;
+    ns1:route_long_name "ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΚΑΛΛΙΠΟΛΗ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "906" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/909-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "909-20" ;
+    ns1:route_long_name "ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΑΓ. ΣΟΦΙΑ - ΚΡΑΤ. ΝΙΚΑΙΑΣ" ;
+    ns1:route_short_name "909" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/910-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "910-20" ;
+    ns1:route_long_name "ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΤΖΙΤΖΙΦΙΕΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "910" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/911-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "911-20" ;
+    ns1:route_long_name "ΣΤΑΘ. ΚΑΛΛΙΘΕΑΣ - ΙΔΡ. ΤΥΦΛΩΝ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "911" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/914-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "914-20" ;
+    ns1:route_long_name "ΟΜΟΝΟΙΑ - ΛΑΧΑΝΑΓΟΡΑ - ΠΑΛ. ΚΟΚΚΙΝΙΑ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "914" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/915-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "915-20" ;
+    ns1:route_long_name "ΛΟΦΟΣ ΒΩΚΟΥ- ΠΡ.ΗΛΙΑΣ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "915" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Α1-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Α1-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΒΟΥΛΑ" ;
+    ns1:route_short_name "Α1" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Α10-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Α10-20" ;
+    ns1:route_long_name "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ" ;
+    ns1:route_short_name "Α10" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Α11-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Α11-20" ;
+    ns1:route_long_name "ΠΛ. ΒΑΘΗ - ΙΛΙΟΝ - ΠΕΤΡΟΥΠΟΛΗ (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)" ;
+    ns1:route_short_name "Α11" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Α13-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Α13-20" ;
+    ns1:route_long_name "ΟΜΟΝΟΙΑ - ΚΗΠΟΥΠΟΛΗ" ;
+    ns1:route_short_name "Α13" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Α15-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Α15-20" ;
+    ns1:route_long_name "ΣΤ. ΛΑΡΙΣΗΣ - ΔΑΣΟΣ" ;
+    ns1:route_short_name "Α15" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Α16-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Α16-20" ;
+    ns1:route_long_name "ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΕΛΕΥΣΙΝΑ (Μέσω ΙΕΡΑΣ ΟΔΟΥ)" ;
+    ns1:route_short_name "Α16" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Α2-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Α2-20" ;
+    ns1:route_long_name "ΑΚΑΔΗΜΙΑ - ΒΟΥΛΑ (Μέσω Λ. ΑΜΦΙΘΕΑΣ)" ;
+    ns1:route_short_name "Α2" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Α3-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Α3-20" ;
+    ns1:route_long_name "ΑΚΑΔΗΜΙΑ - ΓΛΥΦΑΔΑ  (Μέσω ΒΟΥΛΙΑΓΜΕΝΗΣ)" ;
+    ns1:route_short_name "Α3" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Α5-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Α5-20" ;
+    ns1:route_long_name "ΑΚΑΔΗΜΙΑ - ΑΓ. ΠΑΡΑΣΚΕΥΗ - ΑΝΘΟΥΣΑ" ;
+    ns1:route_short_name "Α5" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Α7-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Α7-20" ;
+    ns1:route_long_name "ΣΤΟΥΡΝΑΡΗ - ΚΗΦΙΣΙΑ (ΠΛ.ΠΛΑΤΑΝΟΥ)" ;
+    ns1:route_short_name "Α7" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Α8-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Α8-20" ;
+    ns1:route_long_name "ΠΟΛΥΤΕΧΝΕΙΟ - Ν. ΙΩΝΙΑ - ΜΑΡΟΥΣΙ" ;
+    ns1:route_short_name "Α8" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Β1-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Β1-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΑΝΩ ΓΛΥΦΑΔΑ" ;
+    ns1:route_short_name "Β1" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Β10-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Β10-20" ;
+    ns1:route_long_name "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ (Μέσω ΑΡΙΣΤΟΤΕΛΟΥΣ)" ;
+    ns1:route_short_name "Β10" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Β11-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Β11-20" ;
+    ns1:route_long_name "ΠΛ. ΒΑΘΗ - ΙΛΙΟΝ - ΠΕΤΡΟΥΠΟΛΗ" ;
+    ns1:route_short_name "Β11" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Β12-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Β12-20" ;
+    ns1:route_long_name "ΜΑΡΝΗ - ΑΝΩ ΛΙΟΣΙΑ" ;
+    ns1:route_short_name "Β12" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Β15-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Β15-20" ;
+    ns1:route_long_name "ΣΤ. ΛΑΡΙΣΗΣ - ΠΑΛΑΤΑΚΙ" ;
+    ns1:route_short_name "Β15" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Β18-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Β18-20" ;
+    ns1:route_long_name "ΟΜΟΝΟΙΑ - ΠΕΡΑΜΑ (Μέσω Π. ΡΑΛΛΗ)" ;
+    ns1:route_short_name "Β18" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Β2-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Β2-20" ;
+    ns1:route_long_name "ΑΚΑΔΗΜΙΑ - ΑΓΙΟΣ ΚΟΣΜΑΣ (Μέσω ΠΑΡΑΛΙΑΚΗΣ)" ;
+    ns1:route_short_name "Β2" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Β5-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Β5-20" ;
+    ns1:route_long_name "ΣΤ. ΛΑΡΙΣΗΣ - Λ. ΑΛΕΞΑΝΔΡΑΣ - ΑΓ. ΠΑΡΑΣΚΕΥΗ" ;
+    ns1:route_short_name "Β5" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Β9-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Β9-20" ;
+    ns1:route_long_name "ΧΑΛΚΟΚΟΝΔΥΛΗ - ΜΕΤΑΜΟΡΦΩΣΗ - Ν. ΚΗΦΙΣΙΑ" ;
+    ns1:route_short_name "Β9" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Γ10-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Γ10-20" ;
+    ns1:route_long_name "ΑΝΑΚΑΣΑ - ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΠΛ. ΒΑΘΗ (ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "Γ10" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Γ12-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Γ12-20" ;
+    ns1:route_long_name "ΚΑΜΑΤΕΡΟ - ΑΓ.ΝΙΚΟΛΑΟΣ-ΙΛΙΟΝ - ΠΟΛ/ΧΝΕΙΟ(ΚΥΚΛΙΚΗ)" ;
+    ns1:route_short_name "Γ12" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Γ16-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Γ16-20" ;
+    ns1:route_long_name "ΠΛΑΤΕΙΑ ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΑΣΠΡΟΠΥΡΓΟΣ" ;
+    ns1:route_short_name "Γ16" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Γ18-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Γ18-20" ;
+    ns1:route_long_name "ΟΜΟΝΟΙΑ - ΠΕΡΑΜΑ (Μέσω ΓΡ. ΛΑΜΠΡΑΚΗ)" ;
+    ns1:route_short_name "Γ18" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Γ9-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Γ9-20" ;
+    ns1:route_long_name "ΧΑΛΚΟΚΟΝΔΥΛΗ - Κ. ΜΥΛΟΣ - ΑΧΑΡΝΑΙ" ;
+    ns1:route_short_name "Γ9" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Ε14-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Ε14-20" ;
+    ns1:route_long_name "ΣΥΝΤΑΓΜΑ - Ο.Α.Κ.Α - ΥΠ.ΠΑΙΔΕΙΑΣ (EXPRESS)" ;
+    ns1:route_short_name "Ε14" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Ε15-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Ε15-20" ;
+    ns1:route_long_name "ΣΤ. ΛΑΡΙΣΗΣ - ΤΕΙ ΑΘΗΝΩΝ (ΣΧΟΛΙΚΗ  EXPRESS)" ;
+    ns1:route_short_name "Ε15" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Ε90-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Ε90-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ (ΣΧΟΛΙΚΗ EXPRESS)" ;
+    ns1:route_short_name "Ε90" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Χ14-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Χ14-20" ;
+    ns1:route_long_name "ΣΥΝΤΑΓΜΑ - ΚΗΦΙΣΙΑ" ;
+    ns1:route_short_name "Χ14" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Χ93-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Χ93-20" ;
+    ns1:route_long_name "ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ - ΑΕΡ/ΝΑΣ ΑΘΗΝΩΝ (EXPRESS)" ;
+    ns1:route_short_name "Χ93" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Χ95-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Χ95-20" ;
+    ns1:route_long_name "ΣΥΝΤΑΓΜΑ - ΑΕΡΟΛ. ΑΘΗΝΩΝ (EXPRESS)" ;
+    ns1:route_short_name "Χ95" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Χ96-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Χ96-20" ;
+    ns1:route_long_name "ΠΕΙΡΑΙΑΣ - ΑΕΡΟΛ. ΑΘΗΝΩΝ (EXPRESS)" ;
+    ns1:route_short_name "Χ96" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
+@prefix ns1: <http://www.ex.org/gmetz/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ex.org/gmetz/ontology/Routes/UrbanRoutes/Χ97-20> a ns1:UrbanRoutes ;
+    ns1:route_color "153CE0" ;
+    ns1:route_id "Χ97-20" ;
+    ns1:route_long_name "ΣΤ. ΜΕΤΡΟ ΕΛΛΗΝΙΚΟ - ΑΕΡΟΛ. ΑΘΗΝΩΝ (EXPRESS)" ;
+    ns1:route_short_name "Χ97" ;
+    ns1:route_text_color "FFFFFF" ;
+    ns1:route_type 3 .
+
